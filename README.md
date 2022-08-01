@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a beginner Full Stack Java developer, After working many years in Retail, I started a new career.
+I am a beginner Full Stack Java developer. After working many years in Retail, I started a new career.
 <!--
 **eurbano5090/eurbano5090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
