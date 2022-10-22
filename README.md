@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a beginner Full Stack Java developer. After working many years in retail, I started a new career.
+I am a beginner Full Stack Java developer. After working many years in retail, 
+I started a new career.
 Look at https://eurbano5090myportfolio.herokuapp.com/
 <!--
 **eurbano5090/eurbano5090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
