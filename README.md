@@ -43,10 +43,10 @@
         <h2> Bootcamp desafiolatam</h2>
         <p>2022-2022</p>
       </div>
-    <h3> ¿Hablamos?☕️</>
+    <h2> ¿Hablamos?☕️</>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />linkedin</a>
-    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://github.com/eurbano5090/eurbano5090/issues/2#issue-1470696901.jpg" alt="" height="30" width="40" />enurbanom@outlook.com</a>
-</p>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://github.com/eurbano5090/eurbano5090/issues/2#issue-1470696901" alt="" height="30" width="40" />enurbanom@outlook.com</a>
+
 
           
            
