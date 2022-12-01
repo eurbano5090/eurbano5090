@@ -1,4 +1,5 @@
 😄 SOY ELISA 👋
+ 💻 actualmente en **búsqueda activa** de empleo♨️
 
 <!DOCTYPE html>
 <html lang="en">
@@ -50,7 +51,7 @@
                   <span style='--content:"FULL STACK JAVA DEVELOPER";--start-color:#7928ca;'>FULL STACK JAVA DEVELOPER</span></h3>
                   <i class="fa-solid fa-globe fa-4x"></i> 
                 <h3>
-                  <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA|SQL|SPRINGBOOT|BOOTSTRAP</span>
+                  <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
               </h3>
     <h2> ¿Hablamos?☕️</>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
