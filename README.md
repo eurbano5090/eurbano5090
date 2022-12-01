@@ -1,6 +1,5 @@
 ### Hi there 👋
-😄 I am a beginner Full Stack Java developer. After working many years in retail, 
-I started a new career.
+😄 
 <!DOCTYPE html>
 <html lang="en">
 
@@ -46,7 +45,7 @@ I started a new career.
       </div>
     <h3> ¿Hablamos?☕️</>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />linkedin</a>
-    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/outlook.svg" alt="" height="30" width="40" /></a>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://github.com/eurbano5090/eurbano5090/issues/2#issue-1470696901.jpg" alt="" height="30" width="40" />enurbanom@outlook.com</a>
 </p>
 
           
