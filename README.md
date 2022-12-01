@@ -1,5 +1,5 @@
 😄 YO SOY ELISA 👋
- 💻 actualmente en **búsqueda activa** de empleo♨️
+ 💻 actualmente en **búsqueda activa** de empleo⚡
 
 <!DOCTYPE html>
 <html lang="en">
