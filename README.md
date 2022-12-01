@@ -1,4 +1,4 @@
-### Hi there 👋
+### SOY ELISA FULL STACK JAVA DEVELOPER👋
 😄 
 <!DOCTYPE html>
 <html lang="en">
@@ -23,10 +23,7 @@
 
 </head>
   <header class="header">
-    <nav id="menu" class="navbar fixed-top navbar-expand-lg ">
-      <div class="container">
-        <a href="https://linkedin.com/in/enurbanomz">E.N.URBANO</a>
-        </nav>
+   
         <div class="container border-top  mt-5" id="skills">
         <div class="row align-items-center">
             <div class="col-md-5 col-12 imagen-bg">
@@ -44,8 +41,8 @@
         <p>2022-2022</p>
       </div>
     <h2> ¿Hablamos?☕️</>
-      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />linkedin</a>
-    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://github.com/eurbano5090/eurbano5090/issues/2#issue-1470696901" alt="" height="30" width="40" />enurbanom@outlook.com</a>
+      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/204973480-cb542146-9ffc-448f-b0ed-271c17887dc3.png" alt="" height="30" width="40" /></a>
 
 
           
