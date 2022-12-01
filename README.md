@@ -36,12 +36,19 @@ I started a new career.
           <span > Soy una profesional reconvertida al area TI, muy motivada, que decide salir de su zona de confort y 
           empieza a programar. Realice un bootcamp intensivo en lenguaje Java que me llevo al desarrollo web.
          </span>
+           <div class="col-sm-6 col-12 ">
+       <h1 class="text-center ">E.N.URBANO</h1>
+     </div>
            <div class="col-md-6 col-12 text-center">
         <img src="http://blog.desafiolatam.com/wp-content/uploads/2017/06/giphy-1.gif" id="icon" alt="User Icon" data-bs-toggle="tooltip" data-bs-placement="top" title="full stack java developer"></i></i>
         <h2> Bootcamp desafiolatam</h2>
         <p>2022-2022</p>
       </div>
-        
+    <h3> ¿Hablamos?☕️</>
+      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />linkedin</a>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/outlook.svg" alt="" height="30" width="40" /></a>
+</p>
+
           
            
         
