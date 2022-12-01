@@ -33,9 +33,9 @@
             <div class="col-md-6 col-12 imagen-bg">
               <img src="https://user-images.githubusercontent.com/103292411/204962919-e337e2f5-92c1-4df9-8ceb-5193dff2606b.jpg" width="200rem" class="img-fluid" >
             </div>
-          <span > Soy una profesional reconvertida al area TI, muy motivada, que decide salir de su zona de confort y 
-          empieza a programar. Realice un bootcamp intensivo en lenguaje Java que me llevo al desarrollo web. Con muchos años
+          <span > Soy una profesional reconvertida al area TI.Con muchos años
            de experiencia en trabajo en equipos,cumplimiento de metas,buscando una oportunidad en area TI.
+           Realice un bootcamp intensivo en lenguaje Java que me llevo al desarrollo web.
          </span>
            <div class="col-sm-6 col-12 ">
        <h2 class="text-center ">E.N.URBANO</h2>
