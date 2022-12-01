@@ -59,9 +59,9 @@
          <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
               </h4>
     <h3> ¿Hablamos?☕️</>
-      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=""  width="20" /></a>
-       <a href="https://portpolio2022.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/205105700-c555749a-d697-4234-8f58-4be06172bee4.png" id="icon" width="30"></a>
-    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/204978649-7520d88a-7266-49c4-afe2-98edae51c4e5.png" alt=""  width="40" /></a>
+      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=""  height="20" /></a>
+       <a href="https://portpolio2022.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/205105700-c555749a-d697-4234-8f58-4be06172bee4.png" id="icon" height="30"></a>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/204978649-7520d88a-7266-49c4-afe2-98edae51c4e5.png" alt=""  height="37" /></a>
 
 
           
