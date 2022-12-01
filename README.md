@@ -37,23 +37,23 @@
           empieza a programar. Realice un bootcamp intensivo en lenguaje Java que me llevo al desarrollo web.
          </span>
            <div class="col-sm-6 col-12 ">
-       <h1 class="text-center ">E.N.URBANO</h1>
+       <h2 class="text-center ">E.N.URBANO</h2>
      </div>
            <div class="col-md-6 col-12 text-center">
         <img src="http://blog.desafiolatam.com/wp-content/uploads/2017/06/giphy-1.gif" id="icon" alt="User Icon" data-bs-toggle="tooltip" data-bs-placement="top" title="full stack java developer"></i></i>
-        <h2> Bootcamp desafiolatam</h2>
+        <h4> Bootcamp desafiolatam</h4>
         <p>2022-2022</p>
       </div>
-            <h3>
-                  <span style='--content:"YO SOY ELISA";--start-color:#007CF0;>YO SOY ELISA </span></h3>
+            <h4>
+                  <span style='--content:"YO SOY ELISA";--start-color:#007CF0;>YO SOY ELISA </span></h4>
                   <hr class="hero-line opacity-200 mx-auto w-15">
-                  <h3>
-                  <span style='--content:"FULL STACK JAVA DEVELOPER";--start-color:#7928ca;'>FULL STACK JAVA DEVELOPER</span></h3>
+                  <h4>
+                  <span style='--content:"FULL STACK JAVA DEVELOPER";--start-color:#7928ca;'>FULL STACK JAVA DEVELOPER</span></h4>
                   <i class="fa-solid fa-globe fa-4x"></i> 
-                <h3>
+                <h4>
                   <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
-              </h3>
-    <h2> ¿Hablamos?☕️</>
+              </h4>
+    <h3> ¿Hablamos?☕️</>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
     <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/204973480-cb542146-9ffc-448f-b0ed-271c17887dc3.png" alt="" height="30" width="40" /></a>
 
