@@ -57,8 +57,8 @@
                   <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
               </h4>
     <h3> ¿Hablamos?☕️</>
-      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/204973480-cb542146-9ffc-448f-b0ed-271c17887dc3.png" alt="" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=""  width="20" /></a>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/204978649-7520d88a-7266-49c4-afe2-98edae51c4e5.png" alt=""  width="40" /></a>
 
 
           
