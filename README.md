@@ -31,9 +31,16 @@ I started a new career.
         <div class="container border-top  mt-5" id="skills">
         <div class="row align-items-center">
             <div class="col-md-5 col-12 imagen-bg">
-              <img src="https://user-images.githubusercontent.com/103292411/204962919-e337e2f5-92c1-4df9-8ceb-5193dff2606b.jpg" width="129rem" class="img-fluid" alt="" >
+              <img src="https://user-images.githubusercontent.com/103292411/204962919-e337e2f5-92c1-4df9-8ceb-5193dff2606b.jpg" width="200rem" class="img-fluid" >
             </div>
-          
+          <span > Soy una profesional reconvertida al area TI, muy motivada, que decide salir de su zona de confort y 
+          empieza a programar. Realice un bootcamp intensivo en lenguaje Java que me llevo al desarrollo web.
+         </span>
+           <div class="col-md-6 col-12 text-center">
+        <img src="http://blog.desafiolatam.com/wp-content/uploads/2017/06/giphy-1.gif" id="icon" alt="User Icon" data-bs-toggle="tooltip" data-bs-placement="top" title="full stack java developer"></i></i>
+        <h2> Bootcamp desafiolatam</h2>
+        <p>2022-2022</p>
+      </div>
         
           
            
