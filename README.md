@@ -54,6 +54,7 @@
                    <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="30"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="30"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978314-66b203d9-45b7-4155-96c4-fd91c86f27ef.png" id="icon" height="30"></i>
+                   <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="30"></i>
                 <h4>
                   <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
               </h4>
