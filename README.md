@@ -31,7 +31,7 @@
         <div class="container border-top  mt-5" id="skills">
         <div class="row align-items-center">
             <div class="col-md-6 col-12 imagen-bg">
-              <img src="https://user-images.githubusercontent.com/103292411/204962919-e337e2f5-92c1-4df9-8ceb-5193dff2606b.jpg" class="rounded-circle"  width="200rem" >
+              <img src="https://user-images.githubusercontent.com/103292411/204962919-e337e2f5-92c1-4df9-8ceb-5193dff2606b.jpg" class="rounded-circle" width="200rem">
             </div>
           <span > Soy una profesional reconvertida al area TI.Con muchos años
            de experiencia en trabajo en equipos,cumplimiento de metas,buscando una oportunidad en area TI.
