@@ -58,6 +58,8 @@
                    <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="30"></i>
                    <img src="https://th.bing.com/th/id/OIP.2_W-SgxRlaE_2ACNN7hsTwAAAA?pid=ImgDet&rs=1" id="icon" height="30"></i>
                    <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="30"></i>
+                   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="30"></i>
+                   <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="30"></i>
               <h4>
          <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
               </h4>
