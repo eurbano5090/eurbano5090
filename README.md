@@ -38,7 +38,7 @@
            Realice un bootcamp intensivo en lenguaje Java que dio inicio a este nuevo camino.
          </span>
            <div class="col-sm-6 col-12 ">
-       <h2 class="text-center ">[E.N.URBANO]</h2>
+       <h2 class="text-center ">< E.N.URBANO /></h2>
      </div>
            <div class="col-md-6 col-12 text-center">
         <img src="http://blog.desafiolatam.com/wp-content/uploads/2017/06/giphy-1.gif" id="icon" alt="User Icon" height="50" data-bs-toggle="tooltip" data-bs-placement="top" title="full stack java developer"></i></i>
