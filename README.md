@@ -1,4 +1,4 @@
-😄 YO SOY ELISA URBANO 👋 🌟
+😄 YO SOY ELISA URBANO 👋
  💻 actualmente en **búsqueda activa** de empleo⚡
 
 <!DOCTYPE html>
@@ -55,6 +55,7 @@
                    <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="30"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978314-66b203d9-45b7-4155-96c4-fd91c86f27ef.png" id="icon" height="30"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="30"></i>
+                   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="30"></i>
                    <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="30"></i>
                    <img src="https://th.bing.com/th/id/OIP.2_W-SgxRlaE_2ACNN7hsTwAAAA?pid=ImgDet&rs=1" id="icon" height="30"></i>
                    <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="30"></i>
@@ -64,9 +65,10 @@
          <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
               </h4>
     <h3> ¿Hablamos?☕️</>
-      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/04/37/88/86/240_F_437888641_XrjjuAwATXWNx10jQurCDaXXJnobhDi4.jpg" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
-       <a href="https://portpolio2022.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/205105700-c555749a-d697-4234-8f58-4be06172bee4.png" id="icon" alt="https://portpolio2022.vercel.app/" height="30"></a>
- <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/103292411/213334667-392e69ac-3796-4fda-aa92-40dda96fc0a1.png" alt="enurbanom@outlook.com"  height="25" /></a>
+      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="30" /></a>
+       <a href="https://portpolio2022.vercel.app/" target="blank"><img align="center"
+       src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="30"></a>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3349/3349258.png" alt="enurbanom@outlook.com"  height="30" /></a>
 
 
   </body>
