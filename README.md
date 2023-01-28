@@ -30,8 +30,10 @@
                   <h4>
         <div class="container border-top  mt-5 position-relative" id="skills">
         <div class="row align-items-center">
-            <div class="col-md-6 col-12 imagen-bg position-relative">
-              <img src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" class="rounded-circle" width="150rem">
+            <div class="col-md-6 col-12 style="background-image: linear-gradient(to bottom,
+ rgba(0, 0,0, 0.5),rgba(0, 0, 255, 0.5)),url("https://user-images.githubusercontent.com/103292411/215237476-07f52cf1-e368-4120-a17b-d1ab6e8a1261.jpg");
+ position-relative">
+ <img src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" class="rounded-circle" width="150rem">
             </div>
           <h3> Soy una profesional reconvertida al area TI, buscando una oportunidad para demostrar lo aprendido. Con solida experiencia
           trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
