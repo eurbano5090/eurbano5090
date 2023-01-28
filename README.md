@@ -1,5 +1,6 @@
-😄 YO SOY ELISA URBANO 👋
- 💻 actualmente en **búsqueda activa** de empleo⚡
+
+<!--😄 YO SOY ELISA URBANO 👋
+ 💻 actualmente en **búsqueda activa** de empleo⚡ -->
 
 <!DOCTYPE html>
 <head>
@@ -28,6 +29,9 @@
       <div class="container">
         <a href="https://linkedin.com/in/enurbanomz"></a>
         </nav>
+         <h2 class="text-center">YO SOY ELISA URBANO</h2>
+                  <hr class="hero-line opacity-200 mx-auto w-15">
+                  <h4>
         <div class="container border-top  mt-5" id="skills">
         <div class="row align-items-center">
             <div class="col-md-6 col-12 imagen-bg position-relative">
@@ -44,31 +48,27 @@
         <img src="http://blog.desafiolatam.com/wp-content/uploads/2017/06/giphy-1.gif" id="icon" alt="User Icon" height="50" data-bs-toggle="tooltip" data-bs-placement="top" title="full stack java developer"></i></i>
         <h4> Bootcamp desafiolatam</h4>
         <p>2022-2022</p>
-      </div>
-            <h4>
-                  <span style='--content:"YO SOY ELISA";--start-color:#007CF0;>YO SOY ELISA </span></h4>
-                  <hr class="hero-line opacity-200 mx-auto w-15">
-                  <h4>
-                  <span style='--content:"FULL STACK JAVA DEVELOPER";--start-color:#7928ca;'>FULL STACK JAVA DEVELOPER</span></h4>
-                   <img src="https://user-images.githubusercontent.com/103292411/204976672-146923bc-45c3-4928-91cb-043a3f9cab7f.png" id="icon" height="30"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="30"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="30"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204978314-66b203d9-45b7-4155-96c4-fd91c86f27ef.png" id="icon" height="30"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="30"></i>
-                   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="30"></i>
-                   <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="30"></i>
-                   <img src="https://th.bing.com/th/id/OIP.2_W-SgxRlaE_2ACNN7hsTwAAAA?pid=ImgDet&rs=1" id="icon" height="30"></i>
-                   <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="30"></i>
-                   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="30"></i>
-                   <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="30"></i>
-              <h4>
-         <span style='--content:"JAVA|SQL|SPRINGBOOT|BOOTSTRAP|JSON|HTML";--start-color:#FF4D4D;'>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</span>
-              </h4>
+                   </div>
+         <div class="container col-12 text-center">
+                  <h3 >FULL STACK JAVA DEVELOPER</h3>
+                   <img src="https://user-images.githubusercontent.com/103292411/204976672-146923bc-45c3-4928-91cb-043a3f9cab7f.png" id="icon" height="40"></i>
+                   <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="40"></i>
+                   <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
+                   <img src="https://user-images.githubusercontent.com/103292411/204978314-66b203d9-45b7-4155-96c4-fd91c86f27ef.png" id="icon" height="40"></i>
+                   <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="40"></i>
+                   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="40"></i>
+                   <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="40"></i>
+                   <img src="https://th.bing.com/th/id/OIP.2_W-SgxRlaE_2ACNN7hsTwAAAA?pid=ImgDet&rs=1" id="icon" height="40"></i>
+                   <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="40"></i>
+                   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="40"></i>
+                   <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
+                    </div>
+              <h4>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</h4>        
     <h3> ¿Hablamos?☕️</>
-      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="30" /></a>
+      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
        <a href="https://portafolio2023.vercel.app/" target="blank"><img align="center"
-       src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="30"></a>
-    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3349/3349258.png" alt="enurbanom@outlook.com"  height="30" /></a>
+       src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="40"></a>
+    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3349/3349258.png" alt="enurbanom@outlook.com"  height="40" /></a>
 
 
   </body>
