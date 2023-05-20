@@ -1,6 +1,6 @@
 
 <!--😄 YO SOY ELISA URBANO 👋
- 💻 actualmente en **búsqueda activa** de empleo⚡ -->
+ 💻 ⚡ -->
 
 <!DOCTYPE html>
 <head>
@@ -35,9 +35,9 @@
  position-relative">
  <img src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" class="rounded-circle" width="150rem">
             </div>
-          <h4> Soy una profesional reconvertida al area TI, buscando una oportunidad para demostrar lo aprendido. Con solida experiencia
+          <h4> Soy una profesional reconvertida al area TI. Con solida experiencia
           trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
-           Realice un bootcamp intensivo en lenguaje Java que dio inicio a este nuevo camino.
+           Realice un bootcamp intensivo en lenguaje Java que me abrio las puertas a este nuevo mundo.
          </h4>
            <div class="col-sm-6 col-12 ">
        <h2 class="text-center ">< E.N.URBANO /></h2>
