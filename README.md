@@ -43,7 +43,7 @@
        <h2 class="text-center ">< E.N.URBANO /></h2>
      </div>
          <div class="container col-12 text-center">
-                  <h3 >FULL STACK JAVA DEVELOPER</h3>
+                  <h3 >FULL STACK DEVELOPER</h3>
                    <img src="https://user-images.githubusercontent.com/103292411/204976672-146923bc-45c3-4928-91cb-043a3f9cab7f.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
@@ -52,12 +52,14 @@
                    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="40"></i>
                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89NlVK9G8MUgOHgAGwXayi6Ev-vWq9ZHtRQ&usqp=CAU" id=icon height="50"></i>
                    <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="40"></i>
+                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/4c3ac334-223e-4b05-a804-8a12b95c09f5" id="icon" height="40"></i>
+                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/0e0d3bf2-ea8b-47ed-8326-5a9432bd6e37" id="icon" height="40"></i>
                    <img src="https://th.bing.com/th/id/OIP.2_W-SgxRlaE_2ACNN7hsTwAAAA?pid=ImgDet&rs=1" id="icon" height="40"></i>
                    <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="40"></i>
                    <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
                     </div>
-              <h3>JAVA |SQL |SPRINGBOOT |BOOTSTRAP |JSON |HTML</h3>        
+              <h3>JAVA |JAVASCRIPT |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3>        
     <h3> ¿Hablamos?☕️</>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
        <a href="https://app-e-n-urbano.vercel.app/" target="blank"><img align="center"
