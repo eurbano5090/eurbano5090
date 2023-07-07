@@ -38,6 +38,7 @@
           <h4> Soy una profesional reconvertida al area TI. Con solida experiencia
           trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
            Realice un bootcamp intensivo en lenguaje Java que me abrio las puertas a este nuevo mundo.
+           Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar. 
          </h4>
            <div class="col-sm-6 col-12 ">
        <h2 class="text-center ">< E.N.URBANO /></h2>
@@ -58,7 +59,8 @@
                    <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="40"></i>
                    <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
-                    </div>
+                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/66cbb556-bce8-4800-ad6e-57c583e97e0f" id="icon" height="40"></i>
+                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/a6325ceb-07b6-4667-8d48-2e847b0dfa36" id="icon" height="45"></i></div>
               <h3>JAVA |JAVASCRIPT |PYTHON |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3>        
     <h3> ¿Hablamos?☕️</>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
