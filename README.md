@@ -50,7 +50,7 @@
                    <img src="https://user-images.githubusercontent.com/103292411/204978314-66b203d9-45b7-4155-96c4-fd91c86f27ef.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="40"></i>
                    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="40"></i>
-                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89NlVK9G8MUgOHgAGwXayi6Ev-vWq9ZHtRQ&usqp=CAU" id=icon height="45"></i>
+                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89NlVK9G8MUgOHgAGwXayi6Ev-vWq9ZHtRQ&usqp=CAU" id=icon height="50"></i>
                    <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="40"></i>
                    <img src="https://th.bing.com/th/id/OIP.2_W-SgxRlaE_2ACNN7hsTwAAAA?pid=ImgDet&rs=1" id="icon" height="40"></i>
                    <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="40"></i>
