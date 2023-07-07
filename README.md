@@ -59,7 +59,7 @@
                    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="40"></i>
                    <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
                     </div>
-              <h3>JAVA |JAVASCRIPT |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3>        
+              <h3>JAVA |JAVASCRIPT |PYTHON |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3>        
     <h3> ¿Hablamos?☕️</>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
        <a href="https://app-e-n-urbano.vercel.app/" target="blank"><img align="center"
