@@ -46,12 +46,12 @@
          <div class="container col-12 text-center">
                   <h3 >FULL STACK DEVELOPER</h3>
                    <img src="https://user-images.githubusercontent.com/103292411/204976672-146923bc-45c3-4928-91cb-043a3f9cab7f.png" id="icon" height="40"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="40"></i>
+                   <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="55"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978314-66b203d9-45b7-4155-96c4-fd91c86f27ef.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="40"></i>
                    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="40"></i>
-                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89NlVK9G8MUgOHgAGwXayi6Ev-vWq9ZHtRQ&usqp=CAU" id=icon height="50"></i>
+                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89NlVK9G8MUgOHgAGwXayi6Ev-vWq9ZHtRQ&usqp=CAU" id=icon height="55"></i>
                    <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="40"></i>
                    <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/4c3ac334-223e-4b05-a804-8a12b95c09f5" id="icon" height="40"></i>
                    <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/0e0d3bf2-ea8b-47ed-8326-5a9432bd6e37" id="icon" height="40"></i>
