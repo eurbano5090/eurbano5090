@@ -39,10 +39,10 @@
            Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar. 
          </h4>
            <div class="col-sm-6 col-12 ">
-       <h2 class="text-center ">< E.N.URBANO /></h2>
+       <h2 class="text-center ">< E.URBANO /></h2>
      </div>
          <div class="container col-12 text-center">
-                  <h3 >FULL STACK DEVELOPER</h3>
+                  <h3>JAVA |JAVASCRIPT |PYTHON |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3> 
                    <img src="https://user-images.githubusercontent.com/103292411/204976672-146923bc-45c3-4928-91cb-043a3f9cab7f.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="55"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
@@ -59,8 +59,8 @@
                    <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
                    <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/66cbb556-bce8-4800-ad6e-57c583e97e0f" id="icon" height="40"></i>
                    <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/a6325ceb-07b6-4667-8d48-2e847b0dfa36" id="icon" height="45"></i></div>
-              <h3>JAVA |JAVASCRIPT |PYTHON |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3>        
-    <h3> ¿Hablamos?☕️</>
+        <br>
+    <h2> ¿Hablamos?☕️<h2/>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
        <a href="https://app-e-n-urbano.vercel.app/" target="blank"><img align="center"
        src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="40"></a>
