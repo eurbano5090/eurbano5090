@@ -1,5 +1,5 @@
 
-<!--😄 YO SOY ELISA URBANO 👋
+<!--😄<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mathiew+Thay&duration=4999&pause=1000&color=3A153B&background=7CD3DF00&width=435&lines=Hola+soy+Elisa+Urbano;desarrolladora+full+stack" alt="Typing SVG" /></a> 👋
  💻 ⚡ -->
 
 <!DOCTYPE html>
@@ -25,9 +25,7 @@
       <div class="container">
         <a href="https://linkedin.com/in/enurbanomz"></a>
         </nav>
-         <h2 class="text-center position-relative"> HOLA SOY ELISA URBANO </h2>
-                  <hr class="hero-line opacity-200 mx-auto w-15">
-                  <h4>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4999&pause=1000&color=3A153B&background=7F79A700&width=435&lines=Hola+soy+Elisa+Urbano;Desarrolladora+full+stack+Java" alt="Typing SVG" /></a>
         <div class="container border-top  mt-5 position-relative" id="skills">
         <div class="row align-items-center">
             <div class="col-md-6 col-12 style="background-image: linear-gradient(to bottom,
@@ -37,7 +35,7 @@
             </div>
           <h4> Soy una profesional reconvertida al area TI. Con solida experiencia
           trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
-           Realice un bootcamp intensivo en lenguaje Java que me abrio las puertas a este nuevo mundo.
+           Java fue el lenguaje que me abrio las puertas a este nuevo mundo.
            Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar. 
          </h4>
            <div class="col-sm-6 col-12 ">
