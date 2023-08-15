@@ -25,24 +25,23 @@
       <div class="container">
         <a href="https://linkedin.com/in/enurbanomz"></a>
         </nav>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4999&pause=1000&color=3A153B&background=7F79A700&width=435&lines=Hola+soy+Elisa+Urbano;Desarrolladora+full+stack+Java" alt="Typing SVG" /></a>
+        <a align="end" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4999&pause=1000&color=3A153B&background=7F79A700&width=435&lines=Hola+soy+Elisa+Urbano;Desarrolladora+full+stack+Java" alt="Typing SVG" /></a>
         <div class="container border-top  mt-5 position-relative" id="skills">
         <div class="row align-items-center">
-            <div class="col-md-6 col-12 style="background-image: linear-gradient(to bottom,
+            <div align="center" class="col-md-6 col-12 style="background-image: linear-gradient(to bottom,
  rgba(0, 0,0, 0.5),rgba(0, 0, 255, 0.5)),url("https://user-images.githubusercontent.com/103292411/215237476-07f52cf1-e368-4120-a17b-d1ab6e8a1261.jpg");
  position-relative">
- <img  src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" class="rounded-circle" align="center" width="140rem">
+ <img src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" class="rounded-circle" align="center" width="140rem">
             </div>
-          <h4> Soy una profesional reconvertida al area TI. Con solida experiencia
+          <h4 align="center"> Soy una profesional reconvertida al area TI. Con solida experiencia
           trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
            Java fue el lenguaje que me abrio las puertas a este nuevo mundo.
            Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar. 
          </h4>
            <div class="col-sm-6 col-12 ">
-       <h2 class="text-center ">< E.URBANO /></h2>
      </div>
          <div class="container col-12 text-center">
-                  <h3>JAVA |JAVASCRIPT |PYTHON |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3> 
+                  <h3 align="center">JAVA |JAVASCRIPT |PYTHON |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3> 
                    <img src="https://user-images.githubusercontent.com/103292411/204976672-146923bc-45c3-4928-91cb-043a3f9cab7f.png" id="icon" height="40"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="55"></i>
                    <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
@@ -60,13 +59,13 @@
                    <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/66cbb556-bce8-4800-ad6e-57c583e97e0f" id="icon" height="40"></i>
                    <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/a6325ceb-07b6-4667-8d48-2e847b0dfa36" id="icon" height="45"></i></div>
         <br>
-    <h2> ¿Hablamos?☕️<h2/>
+    <h2 > ¿Hablamos?☕️<h2/>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
        <a href="https://app-e-n-urbano.vercel.app/" target="blank"><img align="center"
        src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="40"></a>
     <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3349/3349258.png" alt="enurbanom@outlook.com"  height="40" /></a>
 
-
+ <h2 class="text-center ">< E.URBANO /></h2>
   </body>
 </html>
           
