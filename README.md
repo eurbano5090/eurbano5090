@@ -25,7 +25,8 @@
       <div class="container">
         <a href="https://linkedin.com/in/enurbanomz"></a>
         </nav>
-        <a align="end" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4999&pause=1000&color=3A153B&background=7F79A700&width=435&lines=Hola+soy+Elisa+Urbano;Desarrolladora+full+stack+Java" alt="Typing SVG" /></a>
+       <div class="container border-top  mt-5 position-relative" id="skills">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=5A2C64&background=B6B6B600&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hola+Soy+ELISA+URBANO;Desarrolladora;Full+Stack+Java" alt="Typing SVG" /></a></div>
         <div class="container border-top  mt-5 position-relative" id="skills">
         <div class="row align-items-center">
             <div align="center" class="col-md-6 col-12 style="background-image: linear-gradient(to bottom,
