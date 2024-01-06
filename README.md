@@ -41,25 +41,26 @@
          </h4>
            <div class="col-sm-6 col-12 ">
      </div>
-         <div class="container col-12 text-center">
-                  <h3 align="center">JAVA |JAVASCRIPT |PYTHON |SQL |SPRINGBOOT |DJANGO |VUE |HTML</h3> 
-                   <img src="https://user-images.githubusercontent.com/103292411/204976672-146923bc-45c3-4928-91cb-043a3f9cab7f.png" id="icon" height="40"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204977511-5f36c51a-d03b-454e-b16c-683d11185d34.png" id="icon" height="55"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204978314-66b203d9-45b7-4155-96c4-fd91c86f27ef.png" id="icon" height="40"></i>
-                   <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="40"></i>
-                   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="40"></i>
-                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89NlVK9G8MUgOHgAGwXayi6Ev-vWq9ZHtRQ&usqp=CAU" id=icon height="55"></i>
-                   <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="40"></i>
-                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/4c3ac334-223e-4b05-a804-8a12b95c09f5" id="icon" height="40"></i>
-                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/0e0d3bf2-ea8b-47ed-8326-5a9432bd6e37" id="icon" height="40"></i>
-                   <img src="https://th.bing.com/th/id/OIP.2_W-SgxRlaE_2ACNN7hsTwAAAA?pid=ImgDet&rs=1" id="icon" height="40"></i>
-                   <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="40"></i>
-                   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="40"></i>
-                   <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
-                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/66cbb556-bce8-4800-ad6e-57c583e97e0f" id="icon" height="40"></i>
-                   <img src="https://github.com/eurbano5090/eurbano5090/assets/103292411/a6325ceb-07b6-4667-8d48-2e847b0dfa36" id="icon" height="45"></i></div>
-        <br>
+         <div class="container col-12 text-center" id="certificaciones">
+    <h3 align="center">SKILLS</h3> 
+     <img src="https://cdn.icon-icons.com/icons2/81/PNG/96/java_15498.png" id="icon" height="50"></i>
+     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/bootstrap_plain_logo_icon_146619.png" id="icon" height="40"></i>
+     <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
+     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_macos_bigsur_icon_189815.png" id="icon" height="50"></i>
+     <img src="https://user-images.githubusercontent.com/103292411/204980150-37054a52-a3a8-4cec-9bc2-8b8e0caecbec.png" id="icon" height="40"></i>
+     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" id="icon" height="40"></i>
+     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_python_icon_130221.png" id=icon height="50"></i>
+     <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="40"></i>
+     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_vue_icon_130078.png" id="icon" height="50"></i>
+     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_django_icon_130645.png" id="icon" height="50"></i>
+     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/mongodb_logo_icon_170943.png" id="icon" height="40"></i>
+     <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="40"></i>
+     <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="40"></i>
+     <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
+     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_macos_bigsur_icon_190061.png" id="icon" height="50"></i>
+     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_pycharm_macos_bigsur_icon_190055.png" id="icon" height="50"></i></div>
+<br>
+    </div>
     <h2 > ¿Hablamos?☕️<h2/>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
        <a href="https://app-e-n-urbano.vercel.app/" target="blank"><img align="center"
