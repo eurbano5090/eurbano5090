@@ -44,6 +44,7 @@
          <div class="container col-12 text-center" id="certificaciones">
     <h3 align="center">SKILLS</h3> 
      <img src="https://cdn.icon-icons.com/icons2/81/PNG/96/java_15498.png" id="icon" height="50"></i>
+     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" id="icon" height="50"></i>
      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/bootstrap_plain_logo_icon_146619.png" id="icon" height="40"></i>
      <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
      <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_macos_bigsur_icon_189815.png" id="icon" height="50"></i>
