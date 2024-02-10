@@ -64,7 +64,7 @@
     </div>
     <h2 > ¿Hablamos?☕️<h2/>
       <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
-       <a href="https://portafolio-js23.vercel.app](https://portafolio-js23.vercel.app/" target="blank"><img align="center"
+       <a href="https://portafolio-js23.vercel.app" target="blank"><img align="center"
        src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="40"></a>
     <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3349/3349258.png" alt="enurbanom@outlook.com"  height="40" /></a>
 
