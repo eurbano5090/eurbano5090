@@ -44,7 +44,8 @@
          <div class="container col-12 text-center" id="certificaciones">
     <h3 align="center">SKILLS</h3> 
      <img src="https://cdn.icon-icons.com/icons2/81/PNG/96/java_15498.png" id="icon" height="50"></i>
-     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" id="icon" height="50"></i>
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" id="icon" height="40"></i>
+     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" id="icon" height="40"></i>
      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/bootstrap_plain_logo_icon_146619.png" id="icon" height="40"></i>
      <img src="https://user-images.githubusercontent.com/103292411/204978042-e451daa5-2110-4624-8389-31ab20487784.png" id="icon" height="40"></i>
      <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_macos_bigsur_icon_189815.png" id="icon" height="50"></i>
@@ -60,7 +61,8 @@
      <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
      <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_macos_bigsur_icon_190061.png" id="icon" height="50"></i>
      <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_pycharm_macos_bigsur_icon_190055.png" id="icon" height="50"></i>
-     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" id="icon"height="50"></i></div>
+     <img src="https://img.icons8.com/?size=48&id=oROcPah5ues6&format=png" id="icon" height="45"></i>
+     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" id="icon"height="45"></i></div>
 <br>
     </div>
     <h2 > ¿Hablamos?☕️<h2/>
