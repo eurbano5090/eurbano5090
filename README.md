@@ -26,13 +26,15 @@
         <a href="https://linkedin.com/in/enurbanomz"></a>
         </nav>
        <div class="container border-top  mt-5 position-relative" id="skills">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=5A2C64&background=B6B6B600&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hola+Soy+ELISA+URBANO;Desarrolladora;Full+Stack+Java" alt="Typing SVG" /></a></div>
-        <div class="container border-top  mt-5 position-relative" id="skills">
+<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=5A2C64&background=B6B6B600&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hola+Soy+ELISA+URBANO;Desarrolladora;Full+Stack+Java" alt="Typing SVG" /></a></div>
+        <div class="container border-top  mt-5 position-relative" id="skills"> -->
         <div class="row align-items-center">
             <div align="center" class="col-md-6 col-12 style="background-image: linear-gradient(to bottom,
  rgba(0, 0,0, 0.5),rgba(0, 0, 255, 0.5)),url("https://user-images.githubusercontent.com/103292411/215237476-07f52cf1-e368-4120-a17b-d1ab6e8a1261.jpg");
- position-relative">
- <img src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" class="rounded-circle" align="center" width="140rem">
+ position-relative"> <p align="center" width="300">
+   <img align="center" width="200"  src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" />
+   <h1 align="center">¡Hey 👋! Soy Elisa Urbano 👨🏻‍💻</h1>
+</p>
             </div>
           <h4 align="center"> Soy una profesional reconvertida al area TI. Con solida experiencia
           trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
