@@ -67,11 +67,11 @@
      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" id="icon"height="45"></i></div>
 <br>
     </div>
-    <h2 > ¿Hablamos?☕️<h2/>
-      <a href="https://linkedin.com/in/enurbanomz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" alt="https://linkedin.com/in/enurbanomz"  height="40" /></a>
-       <a href="https://portafolio-js23.vercel.app" target="blank"><img align="center"
-       src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="40"></a>
-    <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3349/3349258.png" alt="enurbanom@outlook.com"  height="40" /></a>
+   <p>
+<a href="https://github.com/eurbano5090/eurbano5090"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://portafolio-js23.vercel.app" target="blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://linkedin.com/in/enurbanomz" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
  <h2 class="text-center ">< Elisa Urbano M. /></h2>
   </body>
