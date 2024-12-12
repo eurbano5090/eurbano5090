@@ -67,9 +67,10 @@
      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" id="icon"height="45"></i></div>
 <br>
     </div>
+
    <p>
 <a href="https://github.com/eurbano5090/eurbano5090"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://portafolio-js23.vercel.app" target="blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://portafolio-js23.vercel.app" target="blank"><img alt="Portafolio" src="https://img.shields.io/badge/Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://linkedin.com/in/enurbanomz" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
