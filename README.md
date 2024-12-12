@@ -1,6 +1,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56D2D4&width=435&lines=Hola+Soy+Elisa+Urbano+%F0%9F%91%8B!;Desarrolladora+Full+Stack+Java" alt="Typing SVG" /></a>
  
-<p align="center" width="300">  <img align="center" width="200" style: src="https://github.com/user-attachments/assets/c6a89ec2-008d-44ce-abd0-6190f18d2289" /> 
+<p align="center" width="300">  <img align="center" width="200" style="border-radius:20%;"
+ src="https://github.com/user-attachments/assets/c6a89ec2-008d-44ce-abd0-6190f18d2289" /> 
 
 
 😄 Sobre mi
@@ -38,7 +39,7 @@ Despues de haber trabajado 20 años en tiendas de retail decido empezar a progra
 
 🔭 Trabajando en
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img src="https://github.com/user-attachments/assets/0872a0ff-f27c-40d5-8dbb-3a58359b0b7d" height="50">
+<a href="https://gatblac.com/"><img src="https://github.com/user-attachments/assets/0872a0ff-f27c-40d5-8dbb-3a58359b0b7d" height="50"></a>
 
 
 
