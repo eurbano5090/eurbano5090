@@ -7,11 +7,11 @@
 
 Soy una profesional reconvertida al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
 Java fue el lenguaje que me abrio las puertas a este nuevo mundo.
-Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar.
+Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar.<br><br>
 
   
 👩‍💻 Conocimientos
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <img src="https://cdn.icon-icons.com/icons2/81/PNG/96/java_15498.png" id="icon" height="50"></i>
@@ -32,12 +32,12 @@ Despues de haber trabajado 20 años en tiendas de retail decido empezar a progra
 <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_macos_bigsur_icon_190061.png" id="icon" height="50"></i>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_pycharm_macos_bigsur_icon_190055.png" id="icon" height="50"></i>
-<img src="https://img.icons8.com/?size=48&id=oROcPah5ues6&format=png" id="icon" height="45"></i>
+<img src="https://img.icons8.com/?size=48&id=oROcPah5ues6&format=png" id="icon" height="45"></i><br><br>
 
 
 🔭 Trabajando en
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<a href="https://gatblac.com/"><img src="https://github.com/user-attachments/assets/0872a0ff-f27c-40d5-8dbb-3a58359b0b7d" height="50"></a>
+<a href="https://gatblac.com/"><img src="https://github.com/user-attachments/assets/0872a0ff-f27c-40d5-8dbb-3a58359b0b7d" height="50"></a><br><br>
 
 
 
@@ -46,8 +46,8 @@ Despues de haber trabajado 20 años en tiendas de retail decido empezar a progra
 
 
 <a href="https://github.com/eurbano5090/eurbano5090"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://portafolio-js23.vercel.app" target="blank"><img alt="Portafolio" src="https://img.shields.io/badge/Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://linkedin.com/in/enurbanomz" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://portafolio-js23.vercel.app" target="blank"><img alt="Portafolio" src="https://img.shields.io/badge/Portfolio-1769ff?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://linkedin.com/in/enurbanomz" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
 
 
 # < Elisa Urbano M. />
