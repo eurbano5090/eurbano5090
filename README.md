@@ -1,9 +1,5 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56D2D4&width=435&lines=Hola+Soy+Elisa+Urbano+%F0%9F%91%8B!;Desarrolladora+Full+Stack+Java" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56D2D4&width=435&lines=Hola+Soy+Elisa+Urbano+%F0%9F%91%8B!;Desarrolladora+Full+Stack+Java" alt="Typing SVG" /></a></p>
  
-<p align="center" width="300" > <img align="center" width="200" style="border-radius:20px; 2px solid blue;" src="https://github.com/user-attachments/assets/2c83426d-c083-41aa-ae6f-debc2fe7f316" /> </p>
-
-        
-
 
 
 😄 Sobre mi
