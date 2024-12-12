@@ -1,6 +1,6 @@
 
-<!--😄<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mathiew+Thay&duration=4999&pause=1000&color=3A153B&background=7CD3DF00&width=435&lines=Hola+soy+Elisa+Urbano;desarrolladora+full+stack" alt="Typing SVG" /></a> 👋
- 💻 ⚡ -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mathiew+Thay&duration=4999&pause=1000&color=3A153B&background=7CD3DF00&width=435&lines=Hola+soy+Elisa+Urbano;desarrolladora+full+stack" alt="Typing SVG" /></a> 👋
+ 💻 ⚡ 😄
 
 <!DOCTYPE html>
 <head>
@@ -26,14 +26,14 @@
         <a href="https://linkedin.com/in/enurbanomz"></a>
         </nav>
        <div class="container border-top  mt-5 position-relative" id="skills">
-<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=5A2C64&background=B6B6B600&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hola+Soy+ELISA+URBANO;Desarrolladora;Full+Stack+Java" alt="Typing SVG" /></a></div>
-        <div class="container border-top  mt-5 position-relative" id="skills"> -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56D2D4&width=435&lines=Hola+Soy+Elisa+Urbano+%F0%9F%91%8B!;Desarrolladora+Full+Stack+Java" alt="Typing SVG" /></a>
+        <div class="container border-top  mt-5 position-relative" id="skills"> 
         <div class="row align-items-center">
   <!--          <div align="center" class="col-md-6 col-12 style="background-image: linear-gradient(to bottom,
  rgba(0, 0,0, 0.5),rgba(0, 0, 255, 0.5)),url("https://user-images.githubusercontent.com/103292411/215237476-07f52cf1-e368-4120-a17b-d1ab6e8a1261.jpg");
  position-relative"> <p align="center" width="300">  
-   <img align="center" width="200"  src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" />  -->
-   <h1 align="center">¡Hey 👋! Soy Elisa Urbano 👨🏻‍💻</h1>
+   <img align="center" width="200"  src="https://user-images.githubusercontent.com/103292411/213324702-2049d376-6883-4f64-843e-48e286e69eef.png" />  
+   <h1 align="center">¡Hey 👋! Soy Elisa Urbano 👨🏻‍💻</h1> -->
 </p>
             </div>
           <h4 align="center"> Soy una profesional reconvertida al area TI. Con solida experiencia
@@ -73,7 +73,7 @@
        src="https://cdn-icons-png.flaticon.com/512/6899/6899238.png" id="icon" alt="https://portpolio2022.vercel.app/" height="40"></a>
     <a href="mailto:enurbanom@outlook.com " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3349/3349258.png" alt="enurbanom@outlook.com"  height="40" /></a>
 
- <h2 class="text-center ">< E.URBANO /></h2>
+ <h2 class="text-center ">< Elisa Urbano M. /></h2>
   </body>
 </html>
           
