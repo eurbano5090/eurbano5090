@@ -25,6 +25,7 @@ Despues de haber trabajado 20 años en tiendas de retail decido empezar a progra
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_python_icon_130221.png" id=icon height="50"></i>
 <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="40"></i>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_vue_icon_130078.png" id="icon" height="50"></i>
+<img src="https://github.com/user-attachments/assets/438b6536-0cfb-42a4-bedb-3c6beff7f0b7" id="icon" height="45"></i>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_django_icon_130645.png" id="icon" height="50"></i>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/mongodb_logo_icon_170943.png" id="icon" height="40"></i>
 <img src="https://hadrienj.github.io/assets/images/icons/heroku.png" id="icon" height="40"></i>
