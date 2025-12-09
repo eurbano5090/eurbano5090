@@ -3,15 +3,15 @@
 
 
 😄 Sobre mi
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 Soy una profesional reconvertida al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
 Java fue el lenguaje que me abrio las puertas a este nuevo mundo.
-Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar.<br><br>
+He trabajado para el sector financiero, desarrollando APIs, microservicios y aplicaciones web, con experiencia en mantenimiento de sistemas productivos y mejora continua. 
 
   
 👩‍💻 Conocimientos
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <img src="https://cdn.icon-icons.com/icons2/81/PNG/96/java_15498.png" id="icon" height="50"></i>
@@ -37,13 +37,13 @@ Despues de haber trabajado 20 años en tiendas de retail decido empezar a progra
 
 
 🔭 Trabajando en
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <a href="https://gatblac.com/"><img src="https://github.com/user-attachments/assets/0872a0ff-f27c-40d5-8dbb-3a58359b0b7d" height="50"></a><br><br>
 
 
 
 💼 Porfolio y CV
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 
 <a href="https://github.com/eurbano5090/eurbano5090"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
