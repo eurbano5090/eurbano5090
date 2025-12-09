@@ -5,7 +5,7 @@
 😄 Sobre mi
 
 
-Soy una profesional reconvertida al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactiva,
+Soy una profesional reconvertida al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo,
 Java fue el lenguaje que me abrio las puertas a este nuevo mundo.
 He trabajado para el sector financiero, desarrollando APIs, microservicios y aplicaciones web, con experiencia en mantenimiento de sistemas productivos y mejora continua. 
 
