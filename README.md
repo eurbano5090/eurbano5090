@@ -33,6 +33,10 @@ He trabajado para el sector financiero, desarrollando APIs, microservicios y apl
 <img src="https://testautomation.dev/wp-content/uploads/2020/09/eclipse-ide-icon.png" id="icon" height="40"></i>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_macos_bigsur_icon_190061.png" id="icon" height="50"></i>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/intellij_pycharm_macos_bigsur_icon_190055.png" id="icon" height="50"></i>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de500072-f8e6-4a12-b6cf-e9f8db0a6180" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5ece0e60-5d9e-49c0-a95c-4c2e07e22074" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/79e695ae-a030-44a8-9ba5-c97109d124b0" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9bb89bba-fa04-43b6-9b4e-07d79d1576a2" />
 <img src="https://img.icons8.com/?size=48&id=oROcPah5ues6&format=png" id="icon" height="45"></i><br><br>
 
 
