@@ -51,7 +51,7 @@ He trabajado para el sector financiero, desarrollando APIs, microservicios y apl
 
 
 <a href="https://github.com/eurbano5090/eurbano5090"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://portafolio-js23.vercel.app" target="blank"><img alt="Portafolio" src="https://img.shields.io/badge/Portfolio-1769ff?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://eurbano5090.github.io/Lita2025v1/" target="blank"><img alt="Portafolio" src="https://img.shields.io/badge/Portfolio-1769ff?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://linkedin.com/in/enurbanomz" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
 
 
